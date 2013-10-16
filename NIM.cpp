@@ -1,3 +1,5 @@
+//Lol breyting
+//Simmi was here
 //NIM dabs október 1997
 #include <iostream>
 #include <stdlib.h>
@@ -31,6 +33,9 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "		Thetta er smavaegileg breyting" << endl;
+	cout << "		          Teiti hart!" << endl;
+
 	int val;
 	do
 	{
